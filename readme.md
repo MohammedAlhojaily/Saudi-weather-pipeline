@@ -27,6 +27,15 @@ This pipeline automatically:
 
 ---
 
+## ✨ Project Visualization (Metabase Dashboard)
+
+The final output is visualized in a Metabase dashboard, showing key weather metrics collected by the pipeline.
+<p align="center">
+  <img src="images/saudi_weather_analysis.png" alt="Saudi Weather Analysis" width="75%" height="75%">
+</p>
+
+---
+
 ## 🚀 Getting Started
 
 Follow the steps below to run the project locally.
