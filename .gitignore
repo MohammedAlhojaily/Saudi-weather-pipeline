@@ -1,0 +1,12 @@
+.env
+
+__pycache__/
+*.pyc
+
+logs/
+airflow/logs/
+
+*.db
+*.sqlite
+
+postgres_data/
