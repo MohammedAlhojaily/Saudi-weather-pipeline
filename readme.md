@@ -46,7 +46,7 @@ Follow the steps below to run the project locally.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/weather-data-pipeline.git
+   git clone https://github.com/MohammedAlhojaily/Saudi-weather-pipeline.git
    cd weather-data-pipeline
 
 2. **Create an environment file**
