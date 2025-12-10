@@ -9,9 +9,13 @@ The data is processed and stored automatically through Apache Airflow, saved int
 ## 🛠️ Tech Stack
 
 **Airflow** — Workflow orchestration
+
 **PostgreSQL** — Weather data storage
+
 **Docker** — Infrastructure & service management
+
 **Metabase** — Dashboards & data exploration
+
 **pgAdmin** — Database GUI for development
 
 ---
